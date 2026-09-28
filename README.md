@@ -23,7 +23,7 @@ This repo contains the three challenges:
 └── data/
     └── <sample-data>.xlsx
 ```
-$\color{red}{\text{### All details of the challenge can be found within the docs folder. A brief outline is show below.}}$
+$\color{red}{\text{All details of the challenge can be found within the docs folder. A brief outline is show below.}}$
 ---
 
 ## Challenge 1: Glider deployment, metadata and ocean temperature
